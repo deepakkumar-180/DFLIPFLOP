@@ -40,7 +40,8 @@ endmodule
 IMAGE: [GATE.pdf](https://github.com/user-attachments/files/24150612/GATE.pdf)
 
 
-WAVEFORM: [WAVE.pdf](https://github.com/user-attachments/files/24150613/WAVE.pdf)
+WAVEFORM:[wave1.pdf](https://github.com/user-attachments/files/24169664/wave1.pdf)
+
 
 
 NAME: DEEPAKKUMAR S
